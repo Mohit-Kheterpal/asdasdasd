@@ -6,7 +6,9 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
-
+//dfgdfgdfgdfg
+//dgdfgdfg
+//dfgdfgdfg
 namespace dfgdsgd
 {
 	[Activity (Label = "dfgdsgd", MainLauncher = true, Icon = "@drawable/icon")]
